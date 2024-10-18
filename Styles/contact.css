@@ -1,0 +1,13 @@
+table{
+    color: brown;
+}
+th,td{
+    border: 2px solid blue;
+
+}
+tr{
+    color: black;
+}
+body{
+    background-color: lightgray;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+
+}
+h1{
+    color: blue;
+}
+p{
+    color:darkgray;
+    font-size: 16px;
+    line-height: 1.5px;
+}
+li{
+    color: blueviolet;
+}

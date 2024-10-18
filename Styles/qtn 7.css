@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blue;
+    font-style: oblique;
+}
+h3{
+    color: brown;
+}
+p{
+    color: chocolate;
+    font-style: italic;
+}
